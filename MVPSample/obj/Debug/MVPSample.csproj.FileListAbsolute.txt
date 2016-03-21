@@ -1,0 +1,9 @@
+c:\users\asdadasfff\documents\visual studio 2015\Projects\MVPSample\MVPSample\bin\Debug\MVPSample.exe.config
+c:\users\asdadasfff\documents\visual studio 2015\Projects\MVPSample\MVPSample\bin\Debug\MVPSample.exe
+c:\users\asdadasfff\documents\visual studio 2015\Projects\MVPSample\MVPSample\bin\Debug\MVPSample.pdb
+c:\users\asdadasfff\documents\visual studio 2015\Projects\MVPSample\MVPSample\obj\Debug\MVPSample.csprojResolveAssemblyReference.cache
+c:\users\asdadasfff\documents\visual studio 2015\Projects\MVPSample\MVPSample\obj\Debug\MVPSample.Properties.Resources.resources
+c:\users\asdadasfff\documents\visual studio 2015\Projects\MVPSample\MVPSample\obj\Debug\MVPSample.MainView.resources
+c:\users\asdadasfff\documents\visual studio 2015\Projects\MVPSample\MVPSample\obj\Debug\MVPSample.csproj.GenerateResource.Cache
+c:\users\asdadasfff\documents\visual studio 2015\Projects\MVPSample\MVPSample\obj\Debug\MVPSample.exe
+c:\users\asdadasfff\documents\visual studio 2015\Projects\MVPSample\MVPSample\obj\Debug\MVPSample.pdb
